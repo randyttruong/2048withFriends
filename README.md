@@ -1,4 +1,4 @@
-# Getting Started with 2048
+# 2048 with Friends!
 
 This game (2048) was built using **React** and **TypeScript**, loosely following a 
 tutorial from Mateusz Sokola.   
